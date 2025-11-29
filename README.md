@@ -32,7 +32,7 @@ Pour completer les exercices, visiter le site suivant:
 | 4    | Logic & Loops      | ✅     |
 | 5    | Arrays II          | ✅     |
 | 6    | Advanced Recursion | ✅     |
-| 7    | Final Boss         | 🚧     |
+| 7    | Final Boss         | ✅     |
 
 
 ## 🤝 Contribution
